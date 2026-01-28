@@ -52,10 +52,15 @@ The SHAP analysis illustrates how individual features contribute to model predic
 - **Explainability tools complement black-box models**: SHAP helps bridge the gap between performance and accountability.
 
 ## Repository Structure
-.
-├── Boston_Housing_Analysis_Clustering_and_Predictive_Modeling.ipynb
-├── README.md
-└── .gitignore
+
+- **Boston_Housing_Analysis_Clustering_and_Predictive_Modeling.ipynb**  
+  Main notebook containing the complete end-to-end analysis, including EDA, clustering, supervised modeling, and explainability.
+
+- **README.md**  
+  Project overview, methodology, and key findings.
+
+- **.gitignore**  
+  Git ignore rules.
 
 ## Why This Matters
 In domains such as healthcare, finance, or regulated AI systems, model selection must balance:
