@@ -53,9 +53,9 @@ The SHAP analysis illustrates how individual features contribute to model predic
 
 ## Repository Structure
 .
-├── notebooks/
-│ └── model_comparison_explainability.ipynb
-└── README.md
+├── Boston_Housing_Analysis_Clustering_and_Predictive_Modeling.ipynb
+├── README.md
+└── .gitignore
 
 ## Why This Matters
 In domains such as healthcare, finance, or regulated AI systems, model selection must balance:
